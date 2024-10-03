@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "B68HKWAGY9.com.lichamvn"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {"/": "/*"}
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "B68HKWAGY9.com.lichamvn"
+        ]
+    }
+}
