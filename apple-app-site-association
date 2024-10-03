@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
           {
-            "appID": "[teamID].[BundleID]",
+            "appID": "B68HKWAGY9.lichviet2015",
             "paths": ["*", "/" ]
           }
         ]
