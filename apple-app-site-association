@@ -4,7 +4,7 @@
         "details": [
             {
                 "appIDs": [
-                    "B68HKWAGY9.com.lichamvn"
+                    "B68HKWAGY9.io.github.phungdoanh"
                 ],
                 "paths": [
                     "*"
@@ -17,7 +17,7 @@
     },
     "webcredentials": {
         "apps": [
-            "B68HKWAGY9.com.lichamvn"
+            "B68HKWAGY9.io.github.phungdoanh"
         ]
     }
 }
