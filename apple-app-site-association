@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "B68HKWAGY9.lichviet2015",
-				"paths": [ "*"]
+				"paths": [ "*", "/"]
 			}
 		]
 	}
