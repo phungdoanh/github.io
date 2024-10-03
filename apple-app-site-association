@@ -1,11 +1,11 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "B68HKWAGY9.lichviet2015",
-				"paths": [ "*", "/"]
-			}
-		]
-	}
+      "applinks": {
+        "apps": [],
+        "details": [
+          {
+            "appID": "[teamID].[BundleID]",
+            "paths": ["*", "/" ]
+          }
+        ]
+      }
 }
